@@ -1,2 +1,2 @@
-Editing README file from GUI Commit
+Editing README file from GUI 
 
